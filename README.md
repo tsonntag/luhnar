@@ -1,4 +1,4 @@
-# Luhn
+# Luhnar
 
 Implementation of Luhn algorithm for computing checkdigits.
 
@@ -6,7 +6,7 @@ Implementation of Luhn algorithm for computing checkdigits.
 
 Add this line to your application's Gemfile:
 
-    gem 'luhn'
+    gem 'luhnar'
 
 And then execute:
 
@@ -14,17 +14,17 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install luhn
+    $ gem install luhnar
 
 ## Usage
 
-    require 'luhn'
+    require 'luhnar'
     
-    Luhn.compute('8900123456789012345')
+    Luhnar.compute('8900123456789012345')
 
     # or
 
-    Luhn.compute(8900123456789012345)
+    Luhnar.compute(8900123456789012345)
 
     # return 6
 
