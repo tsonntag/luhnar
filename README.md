@@ -1,6 +1,6 @@
 # Luhn
 
-TODO: Write a gem description
+Implementation of Luhn algorithm for computing checkdigits.
 
 ## Installation
 
@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'luhn'
+    
+    Luhn.compute('8900123456789012345')
+
+    # or
+
+    Luhn.compute(8900123456789012345)
+
+    # return 6
 
 ## Contributing
 
