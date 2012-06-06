@@ -1,5 +1,10 @@
 # Luhnar
 
+[![Build History][2]][1]
+
+[1]: http://travis-ci.org/tracksun/luhnar
+[2]: https://secure.travis-ci.org/tracksun/luhnar.png?branch=master
+
 Implementation of Luhn algorithm for computing checkdigits.
 
 ## Installation
