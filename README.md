@@ -31,7 +31,7 @@ Or install it yourself as:
 
     Luhnar.compute(8900123456789012345)
 
-    # return 6
+    # returns 6
 
 ## Contributing
 
