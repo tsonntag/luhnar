@@ -1,6 +1,3 @@
-# encoding: UTF-8
-
-# test
 class Luhnar
 
   # returns checkdigit for number as integer
